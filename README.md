@@ -4,8 +4,6 @@
 
 - <b>Microsoft Azure</b>
   - [Crash Course: Creating Subscription and First Resource](https://github.com/juliansantiago81/azure-subscription)
-  - [Configuring Active Directory within Microsoft Azure Virtual Machines](https://github.com/juliansantiago81/configure-active-directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/juliansantiago81/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/juliansantiago81/osticket-prereqs)
