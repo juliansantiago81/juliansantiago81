@@ -4,7 +4,6 @@
 
 - <b>Microsoft Azure</b>
   - [Crash Course: Creating Subscription and First Resource](https://github.com/juliansantiago81/azure-subscription)
-
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/juliansantiago81/osticket-prereqs)
 
