@@ -13,4 +13,5 @@
 [<img align="left" alt="julian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/bad_juju_81
-[linkedin]: https://linkedin.com/in/julian-santiago-3b581697
+[linkedin]: https://www.linkedin.com/in/juliansantiago81/
+
