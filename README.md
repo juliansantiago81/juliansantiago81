@@ -6,6 +6,7 @@
   - [Crash Course: Creating Subscription and First Resource](https://github.com/juliansantiago81/azure-subscription)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/juliansantiago81/osticket-prereqs)
+  - [osTicket: osTicket - Post Installation Configuration](https://github.com/juliansantiago81/osticket-prereqs)
 
 <h2>🤳Connect with me:</h2>
 
